@@ -2,6 +2,8 @@
 
 # 1 Lezione - Web Content Management (WordPress) - 29 Aprile 2025
 
+- [Esempio file MySql](Exercises/1.sql)
+
 ## Cos'è il Web Content Management?
 
 **Web Content Management (WCM)**, o sistema di gestione dei contenuti web, è una tecnologia che consente di creare, modificare, pubblicare e gestire contenuti su un sito web in modo semplice e intuitivo, **senza dover conoscere linguaggi di programmazione** come HTML, CSS, JavaScript o SQL.
