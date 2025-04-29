@@ -1,4 +1,4 @@
-# Web Content Managment (Wordpress)
+# Web Content Management (Wordpress)
 
 ## Lezioni
 
