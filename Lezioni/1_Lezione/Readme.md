@@ -3,4 +3,6 @@
 # 1 Lezione - Web Content Management (Wordpress) 29 Aprile 2025
 
 
-Web COntent Management -> sistema di gestione del contenuto web
+Web COntent Management -> sistema di gestione del contenuto Web -> gestione contenuti semplificati 
+
+Siti dinamici senza uso HTML CSS JS e DB
